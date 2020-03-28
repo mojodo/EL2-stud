@@ -1,4 +1,4 @@
-### Theorie. 
+_Theorie._ 
 Bitte erarbeiten Sie sich Kapitel 3, bzw. Seite 7 bis und mit Seite 11 aus dem Skript das unter Woche 6 abgelegt ist. Die Definitionen in Abschnitt 3.1. sind langwierig. Bitte machen Sie sich dennoch gut mit den neuen Begriffen vertraut.
 
 ### Praktikum.
