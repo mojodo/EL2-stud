@@ -8,4 +8,4 @@ __Aufgaben.__
 Die Lernübungen geben Ihnen Gelegenheit die Theorie an einfachen Beispielen anzuwenden. Ausserdem sind gewöhnliche und damit etwas anspruchsvollere Übungen vorhanden. idealerweise machen Sie so viele Übungen bis Sie sich mit dem Stoff gut vertraut fühlen.
 
 __Hinweis zur Prüfung.__ 
-Die Prüfung wird Aufgaben im Stil und schwierigkeitsgrad der Uebungsaufgaben und Praktikumsaufgaben enthalten. Es wird keine inhaltlichen Überraschungen geben. Mit anderen Worten: Nch der selbständigen Bearbeitung von Übungen und Praktika sind Sie gut auf die Prüfung vorbereitet.
+Die Prüfung wird Aufgaben im Stil und Schwierigkeitsgrad der Uebungsaufgaben und Praktikumsaufgaben enthalten. Es wird keine inhaltlichen Überraschungen geben. Mit anderen Worten: Nach der selbständigen Bearbeitung von Übungen und Praktika sind Sie gut auf die Prüfung vorbereitet.
