@@ -5,7 +5,7 @@ __Praktikum.__
 Das Praktikum werden wir mit LT-Spice durchführen. Bitte installieren Sie LT-Spice gemäss der beiliegenden Anleitung _LTspice_Einfuehrung.pdf_ und machen Sie sich damit vertraut.
 
 __Aufgaben.__
-Die Lernübungen geben Ihnen Gelegenheit die Theorie an einfachen Beispielen anzuwenden. Ausserdem sind gewöhnliche und damit etwas anspruchsvollere Übungen vorhanden. idealerweise machen Sie so viele Übungen bis Sie sich mit dem Stoff gut vertraut fühlen.
+Die Lernübungen (_LU_)geben Ihnen Gelegenheit die Theorie an einfachen Beispielen anzuwenden. Ausserdem sind gewöhnliche und damit etwas anspruchsvollere Übungen vorhanden. idealerweise machen Sie so viele Übungen bis Sie sich mit dem Stoff gut vertraut fühlen.
 
 __Hinweis zur Prüfung.__ 
 Die Prüfung wird Aufgaben im Stil und Schwierigkeitsgrad der Uebungsaufgaben und Praktikumsaufgaben enthalten. Es wird keine inhaltlichen Überraschungen geben. Mit anderen Worten: Nach der selbständigen Bearbeitung von Übungen und Praktika sind Sie gut auf die Prüfung vorbereitet.
