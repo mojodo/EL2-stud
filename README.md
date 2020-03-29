@@ -8,4 +8,4 @@
 ### Warum GitHub?
 - GitHub erlaubt es Ihnen, die Dokumente auf Ihrem PC auf einfache Weise aktuell zu halten.
 - GitHub erlaubt es mir, Ihnen Änderungen an den Unterrichtsunterlagen schnell und mit wenig Aufwand zur Verfügung zu stellen.
-- GitHub ist das weitverbreitste professionelle Entwicklerwerkzeug für die Versionskontrolle von Software-Projekten und für die kooperative Zusammenarbeit. Mit einer hohen Wahrscheinlichkeit werden Sie in ihrer Karriere damit arbeiten. Die Beschäftigung damit ist eine lohenende Investition.  
+- GitHub ist das weitverbreitste professionelle Entwicklerwerkzeug für die Versionskontrolle von Software-Projekten und für die kooperative Zusammenarbeit. Mit einer hohen Wahrscheinlichkeit werden Sie in ihrer Karriere damit arbeiten. Die Beschäftigung mit GitHub ist eine lohnenswerte Investition.  
