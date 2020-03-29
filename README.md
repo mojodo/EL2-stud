@@ -1,5 +1,4 @@
-### EL2-stud
-Studenten - Unterlagen - Elektrizitätslehre 2 
+### Unterlagen - Elektrizitätslehre 2 
 
 ### Ihre Unterrichts-Unterlagen auf GitHub
 - Ihre Unterlagen zum Online Unterricht sind nun auch auf GitHub. 
