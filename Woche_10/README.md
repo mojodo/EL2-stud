@@ -2,7 +2,7 @@ __Bearbeitungszeitraum - 23. April__
 
 __Theorie.__ 
 In dieser Woche beginnen wir mit dem Thema **Frequenzgang**, Das neue Skript findet sich in diesem Ordner unter dem Namen EL2_Th2_Frequenzgang.pdf.
-Wir werden diese Woche bis zum Abschnitt 
+Wir werden diese Woche sicher nicht weiter als bis zu Seite 10 kommen.
 
 __Praktikum.__
 Das Praktikum werden wir erneut mit LT-Spice durchführen. Es wird spätestens am Mittwoch-Vormittag aufgeschaltet.
