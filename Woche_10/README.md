@@ -1,4 +1,4 @@
-__Bearbeitungszeitraum - 9. April__
+__Bearbeitungszeitraum - 23. April__
 
 __Theorie.__ 
 In dieser Woche beginnen wir mit dem Thema **Frequenzgang**, Das neue Skript findet sich in diesem Ordner unter dem Namen EL2_Th2_Frequenzgang.pdf.
