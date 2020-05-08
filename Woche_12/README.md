@@ -9,4 +9,4 @@ Das Praktikum enthält Aufgaben mit LT-Spice und MATLAB.
 
 __Aufgaben.__
 Als Aufgaben stehen die beiden Dateien 'U09 Frequenzgang 2.pdf' und 'U10 Frequenzgang 3.pdf' zur Verfügung. 
-**Achtung** Die letzte der beiden Dateien enthält einige grössere Fehler die ich noch korrigieren werden.
+
