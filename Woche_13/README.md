@@ -1,4 +1,4 @@
-__Bearbeitungszeitraum - 07. Mai__
+__Bearbeitungszeitraum - 14. Mai__
 
 __Theorie.__ 
 In dieser Woche schliessen wir das Kapitel **Frequenzgang** ab. 
